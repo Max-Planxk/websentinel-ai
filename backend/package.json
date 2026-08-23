@@ -1,0 +1,16 @@
+{
+  "name": "websentinel-ai-backend",
+  "version": "1.0.0",
+  "description": "WebSentinel AI backend — self-healing competitor scraper monitor. Zero-dependency: runs with just `node server.js`.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
