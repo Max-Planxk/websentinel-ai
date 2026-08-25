@@ -1,297 +1,73 @@
 <div align="center">
 
-# 🕷️ WEB SENTINEL AI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=WEB%20SENTINEL%20AI&fontSize=48&fontAlignY=38&desc=INTO%20THE%20SCRAPE%20VERSE&descAlignY=60&animation=fadeIn"/>
 
-### `INTO THE SCRAPE VERSE`
+<br/>
 
-**An AI-powered web intelligence system built to explore, extract and transform the web into actionable information.**
+### 🕷️ `CRAWL`   •   🔎 `DISCOVER`   •   🧠 `ANALYZE`   •   ⚡ `ACT`
 
-<br>
+<br/>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║               🕷️  W E B   S E N T I N E L                  ║
-║                                                              ║
-║          CRAWL  •  EXTRACT  •  ANALYZE  •  DISCOVER          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**An AI-powered web intelligence platform that transforms the chaos of the internet into structured, actionable knowledge.**
 
-<br>
+<br/>
 
-![AI](https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web-Intelligence-00C7B7?style=for-the-badge)
-![Scraping](https://img.shields.io/badge/Web-Scraping-FF6B35?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-❤-brightgreen?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-POWERED-8A2BE2?style=for-the-badge)
+![Web Intelligence](https://img.shields.io/badge/WEB-INTELLIGENCE-00D9FF?style=for-the-badge)
+![Scraping](https://img.shields.io/badge/SMART-SCRAPING-FF4B4B?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/OPEN-SOURCE-00C853?style=for-the-badge)
 
-### 🕸️ The Web is massive. Sentinel helps you understand it.
+<br/><br/>
+
+### 🎬 PROJECT DEMO
+
+[![Watch Demo](https://img.shields.io/badge/▶_WATCH_PROJECT_DEMO-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/U8OU9lL_Gjc)
+
+<br/>
+
+> ### **The internet has the data.**
+>
+> ### **Sentinel finds the signal.**
 
 </div>
 
 ---
 
-# 🌐 Welcome to the Scrape Verse
+<br/>
 
-Every second, the internet generates an enormous amount of information.
+## `01.` 🌐 ENTER THE SCRAPE VERSE
 
-Articles.
+The internet contains billions of pages filled with information.
 
-Websites.
+The problem isn't finding **data**.
 
-Products.
-
-Research.
-
-News.
-
-Public data.
-
-And somewhere inside all of that information...
-
-**is the answer you're looking for.**
-
-**WEB SENTINEL AI** is designed to help discover and transform web information into something useful.
-
-```text
-                  🌐 THE INTERNET
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │     CRAWL     │
-                 │      🕷️       │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    EXTRACT    │
-                 │      📡       │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    ANALYZE    │
-                 │      🧠       │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    INSIGHT    │
-                 │      ⚡       │
-                 └───────────────┘
-```
-
----
-
-# 🕷️ What is Web Sentinel?
-
-Web Sentinel is an **AI-assisted web intelligence and scraping platform** built around a simple idea:
-
-> **Don't manually search through the web. Let the system explore the information for you.**
-
-The platform is designed to combine automated web-data extraction with intelligent processing so raw web information can be converted into structured and understandable results.
-
----
-
-# ⚡ Core Capabilities
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🕷️ Intelligent Scraping
-
-Collect useful information from web sources and transform unstructured pages into usable data.
-
-`WEB → DATA`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 AI Analysis
-
-Use intelligent processing to understand and organize collected information.
-
-`DATA → KNOWLEDGE`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔍 Information Discovery
-
-Search through large amounts of web information and identify relevant content.
-
-`SEARCH → DISCOVER`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Structured Results
-
-Transform messy web information into cleaner and easier-to-understand outputs.
-
-`RAW DATA → INSIGHT`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧬 The Sentinel Pipeline
+The problem is finding the **right data**.
 
 <div align="center">
 
-### 🌐 WEB
+```text id="8mjcsn"
 
-↓
-
-### 🕷️ SCRAPE
-
-↓
-
-### 📦 EXTRACT
-
-↓
-
-### 🧹 PROCESS
-
-↓
-
-### 🧠 ANALYZE
-
-↓
-
-### 🔍 DISCOVER
-
-↓
-
-### ⚡ INSIGHT
-
-</div>
-
----
-
-# 🧠 How It Works
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                       👤 USER                               │
-│                                                             │
-└────────────────────────────┬────────────────────────────────┘
-                             │
-                             │ Request
-                             ▼
-                  ┌─────────────────────┐
-                  │                     │
-                  │   WEB SENTINEL AI   │
-                  │         🕷️          │
-                  │                     │
-                  └──────────┬──────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-          🌐 SEARCH       🕷️ CRAWL       📡 FETCH
-              │              │              │
-              └──────────────┼──────────────┘
-                             │
-                             ▼
-                   ┌───────────────────┐
-                   │ DATA EXTRACTION   │
-                   └─────────┬─────────┘
-                             │
-                             ▼
-                   ┌───────────────────┐
-                   │   AI PROCESSING   │
-                   │        🧠         │
-                   └─────────┬─────────┘
-                             │
-                             ▼
-                   ┌───────────────────┐
-                   │ STRUCTURED RESULT │
-                   │        ⚡         │
-                   └───────────────────┘
-```
-
----
-
-# 🎯 Why Web Sentinel?
-
-Traditional web research often looks like this:
-
-```text
-Search
-  ↓
-Open Website
-  ↓
-Read
-  ↓
-Open Another Website
-  ↓
-Read Again
-  ↓
-Copy Information
-  ↓
-Compare Everything
-  ↓
-Find Something Useful
-```
-
-### Web Sentinel changes the workflow.
-
-```text
-               🌐 INTERNET
-                    │
-                    ▼
-              🕷️ SENTINEL
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-          EXTRACT        ANALYZE
-             │             │
-             └──────┬──────┘
-                    ▼
-                 INSIGHT
-                    ⚡
-```
-
----
-
-# 🌌 Into The Scrape Verse
-
-The web isn't a single database.
-
-It's a universe of interconnected information.
-
-<div align="center">
-
-```text
-                         🌐
-                    THE INTERNET
+                         ✦
                          │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-        📰 NEWS         🛒 WEB         📚 DATA
-          │              │              │
-          └──────────────┼──────────────┘
+                 ╭───────▼───────╮
+                 │   INTERNET    │
+                 │      🌐       │
+                 ╰───────┬───────╯
+                         │
+           ┌─────────────┼─────────────┐
+           │             │             │
+           ▼             ▼             ▼
+          📰             🛒            📚
+        NEWS          WEBSITES        DATA
+           │             │             │
+           └─────────────┼─────────────┘
                          │
                          ▼
-                       🕷️
-                  WEB SENTINEL
+                 ╔═══════════════╗
+                 ║       🕷️      ║
+                 ║ WEB SENTINEL  ║
+                 ║      AI       ║
+                 ╚═══════╤═══════╝
                          │
                          ▼
                        🧠 AI
@@ -300,217 +76,546 @@ It's a universe of interconnected information.
                   ⚡ INTELLIGENCE
 ```
 
-### **Welcome to the Scrape Verse.**
-
 </div>
 
----
-
-# 🛠️ Technology
-
-Web Sentinel can combine technologies across several layers:
-
-| Layer                | Purpose                   |
-| :------------------- | :------------------------ |
-| 🌐 **Web**           | Information source        |
-| 🕷️ **Scraping**     | Data collection           |
-| ⚙️ **Processing**    | Cleaning & transformation |
-| 🧠 **AI**            | Intelligent analysis      |
-| 🔍 **Search**        | Information discovery     |
-| 📊 **Visualization** | Presenting results        |
-| 🖥️ **Frontend**     | User interaction          |
+**WEB SENTINEL AI** explores the web, extracts useful information and transforms raw content into something humans can actually understand.
 
 ---
 
-# 🔥 Possible Use Cases
+<br/>
 
-### 📰 News Intelligence
-
-Collect and organize information from multiple public sources.
-
-### 🔍 Research
-
-Reduce repetitive searching and organize information for further analysis.
-
-### 💼 Market Intelligence
-
-Analyze publicly available information about industries, products and trends.
-
-### 🛒 Product Research
-
-Collect and compare publicly available product information.
-
-### 📚 Knowledge Discovery
-
-Convert large amounts of web information into structured knowledge.
-
-### 🤖 AI Agents
-
-Provide web information that intelligent systems can analyze and reason over.
-
----
-
-# 🛡️ Responsible Scraping
-
-Web Sentinel should be used responsibly.
-
-```text
-              🕷️ WEB SENTINEL
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       RESPECT     LIMIT      PROTECT
-       robots      requests    data
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-              RESPONSIBLE WEB
-                   ACCESS
-```
-
-Always respect:
-
-* Website terms and policies
-* `robots.txt`
-* Rate limits
-* Privacy
-* Copyright
-* Applicable laws
-* Data-access restrictions
-
----
-
-# 🗺️ Roadmap
-
-### 🟢 FOUNDATION
-
-* [x] Web intelligence concept
-* [x] Scraping workflow
-* [x] Information extraction
-* [x] User interface
-
-### 🟡 INTELLIGENCE
-
-* [ ] AI-powered extraction
-* [ ] Smart content classification
-* [ ] Automatic summarization
-* [ ] Semantic search
-* [ ] Source ranking
-* [ ] Duplicate detection
-
-### 🔵 SCRAPE VERSE
-
-* [ ] Multi-source crawling
-* [ ] Intelligent crawling agents
-* [ ] Real-time monitoring
-* [ ] Knowledge graphs
-* [ ] AI research agents
-* [ ] Automated reports
-* [ ] Advanced visualization
-
----
-
-# 🔮 Future Vision
-
-Imagine asking:
-
-> **"Find everything important about this topic."**
-
-Instead of manually opening dozens of pages...
-
-```text
-              USER QUESTION
-                    │
-                    ▼
-              WEB SENTINEL
-                    🕷️
-                    │
-       ┌────────────┼────────────┐
-       ▼            ▼            ▼
-     SEARCH       SCRAPE       VERIFY
-       │            │            │
-       └────────────┼────────────┘
-                    ▼
-                 ANALYZE
-                    🧠
-                    │
-                    ▼
-              FINAL INSIGHT
-                    ⚡
-```
-
-That's the direction behind **WEB SENTINEL AI**.
-
----
-
-# 🎥 Project Demo
+## `02.` ⚡ THE MISSION
 
 <div align="center">
 
-## ▶️ WEB SENTINEL AI
+### Turn this...
 
-### INTO THE SCRAPE VERSE
+`🌐 🌐 📄 📰 📊 🌐 📄 🛒 📑 🌐 📚 📊`
 
-**WEMAKEDEVS.ORG**
+### into this.
 
-▶️ [Watch the Project Demo](https://youtu.be/U8OU9lL_Gjc)
+# `⚡ ANSWER`
+
+</div>
+
+Instead of manually opening dozens of websites...
+
+Web Sentinel is designed to automate the journey from:
+
+<div align="center">
+
+### **SEARCH → EXTRACT → UNDERSTAND → INSIGHT**
 
 </div>
 
 ---
 
-# 🤝 Contributing
+<br/>
 
-Want to enter the **Scrape Verse**?
+## `03.` 🕷️ MEET THE SENTINEL
 
-```text
-        🍴 FORK
-           │
-           ▼
-      🌿 CREATE BRANCH
-           │
-           ▼
-       💻 DEVELOP
-           │
-           ▼
-        🧪 TEST
-           │
-           ▼
-       💾 COMMIT
-           │
-           ▼
-        🚀 PUSH
-           │
-           ▼
-     🎉 PULL REQUEST
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕷️ WEB CRAWLING
+
+Navigate through relevant web resources and discover useful information.
+
+```text id="qz7j1f"
+TARGET
+  │
+  ▼
+SEARCH
+  │
+  ▼
+CRAWL
 ```
 
-Contributions, ideas and improvements are welcome.
+</td>
+
+<td width="50%" valign="top">
+
+### 📡 DATA EXTRACTION
+
+Extract useful information from unstructured web content.
+
+```text id="pjd1gk"
+WEB PAGE
+   │
+   ▼
+EXTRACT
+   │
+   ▼
+DATA
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI INTELLIGENCE
+
+Process collected information and transform it into understandable knowledge.
+
+```text id="5mzkwq"
+RAW DATA
+   │
+   ▼
+   🧠
+   │
+   ▼
+KNOWLEDGE
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ ACTIONABLE INSIGHTS
+
+Deliver information in a cleaner and more useful format.
+
+```text id="64zm8w"
+ANALYSIS
+   │
+   ▼
+INSIGHT
+   │
+   ▼
+ACTION ⚡
+```
+
+</td>
+</tr>
+</table>
 
 ---
+
+<br/>
+
+# `04.` 🧬 SENTINEL CORE
+
+<div align="center">
+
+```text id="w8ktqz"
+
+ ╔═══════════════════════════════════════════════════════════╗
+ ║                                                           ║
+ ║                   👤  USER QUERY                          ║
+ ║                          │                                ║
+ ║                          ▼                                ║
+ ║              ┌─────────────────────┐                      ║
+ ║              │  🕷️ WEB SENTINEL   │                      ║
+ ║              └──────────┬──────────┘                      ║
+ ║                         │                                 ║
+ ║       ┌─────────────────┼─────────────────┐               ║
+ ║       │                 │                 │               ║
+ ║       ▼                 ▼                 ▼               ║
+ ║    🔎 SEARCH         🌐 CRAWL          📡 FETCH           ║
+ ║       │                 │                 │               ║
+ ║       └─────────────────┼─────────────────┘               ║
+ ║                         │                                 ║
+ ║                         ▼                                 ║
+ ║                 ┌───────────────┐                         ║
+ ║                 │   EXTRACT     │                         ║
+ ║                 └───────┬───────┘                         ║
+ ║                         │                                 ║
+ ║                         ▼                                 ║
+ ║                 ┌───────────────┐                         ║
+ ║                 │    🧠 AI      │                         ║
+ ║                 │   ANALYSIS    │                         ║
+ ║                 └───────┬───────┘                         ║
+ ║                         │                                 ║
+ ║                         ▼                                 ║
+ ║                 ┌───────────────┐                         ║
+ ║                 │ ⚡ INTELLIGENCE│                         ║
+ ║                 └───────────────┘                         ║
+ ║                                                           ║
+ ╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<br/>
+
+# `05.` 🔥 WHY SENTINEL?
+
+### Traditional Research
+
+```text id="0cxpz8"
+Google Search
+     ↓
+Open Website
+     ↓
+Read
+     ↓
+Go Back
+     ↓
+Open Another Website
+     ↓
+Read Again
+     ↓
+Copy Information
+     ↓
+Compare Sources
+     ↓
+Repeat...
+     ↓
+😵
+```
+
+### With Web Sentinel
+
+```text id="vdvwt5"
+            Ask
+             │
+             ▼
+            🕷️
+      WEB SENTINEL AI
+             │
+      ┌──────┼──────┐
+      ▼      ▼      ▼
+     🔎     🌐      📡
+   SEARCH  CRAWL  EXTRACT
+      └──────┼──────┘
+             │
+             ▼
+            🧠
+             │
+             ▼
+        ⚡ INSIGHT
+```
+
+<div align="center">
+
+### **Less searching. More understanding.**
+
+</div>
+
+---
+
+<br/>
+
+# `06.` 🖥️ SYSTEM PREVIEW
+
+<div align="center">
+
+### ✦ WEB SENTINEL COMMAND CENTER ✦
+
+<br/>
+
+<!-- Replace this with your actual screenshot -->
+
+<img src="./assets/dashboard.png" width="90%" alt="Web Sentinel Dashboard"/>
+
+<br/>
+
+> **TIP:** Create an `assets` folder in your repository and upload your main dashboard screenshot as `dashboard.png`.
+
+</div>
+
+---
+
+<br/>
+
+# `07.` 🎥 SEE IT IN ACTION
+
+<div align="center">
+
+## WEB SENTINEL AI
+
+### `INTO THE SCRAPE VERSE`
+
+<br/>
+
+<a href="https://youtu.be/U8OU9lL_Gjc">
+  <img src="https://img.youtube.com/vi/U8OU9lL_Gjc/maxresdefault.jpg" width="80%" alt="Web Sentinel AI Demo"/>
+</a>
+
+<br/><br/>
+
+### 👆 CLICK THE IMAGE TO WATCH THE DEMO
+
+[![YouTube](https://img.shields.io/badge/WATCH_ON_YOUTUBE-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/U8OU9lL_Gjc)
+
+</div>
+
+---
+
+<br/>
+
+# `08.` 🌌 THE SCRAPE VERSE
+
+<div align="center">
+
+```text id="7ueok6"
+
+                         ╭─────────╮
+                         │   🌐    │
+                         │   WEB   │
+                         ╰────┬────╯
+                              │
+            ┌─────────────────┼─────────────────┐
+            │                 │                 │
+            ▼                 ▼                 ▼
+       ╭─────────╮       ╭─────────╮       ╭─────────╮
+       │   📰    │       │   📚    │       │   📊    │
+       │  NEWS   │       │RESEARCH │       │  DATA   │
+       ╰────┬────╯       ╰────┬────╯       ╰────┬────╯
+            │                 │                 │
+            └─────────────────┼─────────────────┘
+                              │
+                              ▼
+                       ╔════════════╗
+                       ║     🕷️     ║
+                       ║  SENTINEL  ║
+                       ╚═════╤══════╝
+                             │
+                             ▼
+                       ╭────────────╮
+                       │     🧠     │
+                       │     AI     │
+                       ╰─────┬──────╯
+                             │
+                             ▼
+                       ╭────────────╮
+                       │     ⚡     │
+                       │  INSIGHT   │
+                       ╰────────────╯
+```
+
+</div>
+
+---
+
+<br/>
+
+# `09.` 💡 USE CASES
+
+<table>
+
+<tr>
+<td align="center" width="33%">
+
+## 📰
+
+### NEWS
+
+Monitor and organize information from public news sources.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🔬
+
+### RESEARCH
+
+Discover useful information across multiple sources.
+
+</td>
+
+<td align="center" width="33%">
+
+## 📊
+
+### ANALYTICS
+
+Transform raw information into structured insights.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+## 🛒
+
+### PRODUCTS
+
+Collect publicly available product information.
+
+</td>
+
+<td align="center">
+
+## 🤖
+
+### AI AGENTS
+
+Provide web intelligence to intelligent systems.
+
+</td>
+
+<td align="center">
+
+## 📡
+
+### MONITORING
+
+Track changing public information across the web.
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<br/>
+
+# `10.` 🔮 ROADMAP
+
+```text id="b1w67t"
+
+ WEB SENTINEL
+      │
+      ├──── 🕷️ Intelligent Crawling        ██████████
+      │
+      ├──── 📡 Data Extraction             ██████████
+      │
+      ├──── 🧠 AI Processing               ███████░░░
+      │
+      ├──── 🔎 Semantic Search             █████░░░░░
+      │
+      ├──── 📊 Knowledge Visualization     ████░░░░░░
+      │
+      ├──── 🤖 Autonomous Agents           ███░░░░░░░
+      │
+      └──── 🌐 Real-Time Intelligence      ██░░░░░░░░
+```
+
+### PHASE 01 — FOUNDATION
+
+* [x] 🕷️ Web intelligence concept
+* [x] 🌐 Web extraction workflow
+* [x] 🖥️ User interface
+* [x] 📊 Structured results
+
+### PHASE 02 — INTELLIGENCE
+
+* [ ] 🧠 AI-powered analysis
+* [ ] 🔎 Semantic search
+* [ ] 📑 Automatic summarization
+* [ ] 🎯 Source ranking
+* [ ] 🔁 Duplicate detection
+
+### PHASE 03 — SENTINEL
+
+* [ ] 🤖 Autonomous research agents
+* [ ] 📡 Real-time monitoring
+* [ ] 🕸️ Multi-source crawling
+* [ ] 🧬 Knowledge graphs
+* [ ] ⚡ Intelligent alerts
+
+---
+
+<br/>
+
+# `11.` 🛡️ RESPONSIBLE INTELLIGENCE
+
+<div align="center">
+
+### Powerful tools require responsible use.
+
+</div>
+
+Web Sentinel should operate with respect for:
+
+`🔒 PRIVACY`   •   `⚖️ LAW`   •   `🌐 WEBSITE POLICIES`   •   `⏱️ RATE LIMITS`   •   `©️ COPYRIGHT`
+
+Only publicly accessible and appropriately permitted information should be collected.
+
+---
+
+<br/>
+
+# `12.` 🤝 CONTRIBUTE
+
+<div align="center">
+
+```text id="xvm33j"
+
+                  🍴 FORK
+                     │
+                     ▼
+                🌿 BRANCH
+                     │
+                     ▼
+                 💻 BUILD
+                     │
+                     ▼
+                  🧪 TEST
+                     │
+                     ▼
+                 💾 COMMIT
+                     │
+                     ▼
+                  🚀 PUSH
+                     │
+                     ▼
+              🎉 PULL REQUEST
+```
+
+### Found an idea? Build it.
+
+### Found a bug? Fix it.
+
+### Want to improve Sentinel? Join the Scrape Verse.
+
+</div>
+
+---
+
+<br/>
 
 <div align="center">
 
 # 🕷️ WEB SENTINEL AI
 
-### `INTO THE SCRAPE VERSE`
+### `// INTO THE SCRAPE VERSE`
 
-🌐 **Explore the Web**
+<br/>
 
-🕷️ **Extract the Data**
+```text id="fx8w6j"
+> INITIALIZING SENTINEL...
 
-🧠 **Understand the Information**
+> CONNECTING TO WEB.............. [OK]
+> SEARCH ENGINE.................. [ONLINE]
+> CRAWLER........................ [ONLINE]
+> EXTRACTION ENGINE.............. [ONLINE]
+> AI CORE........................ [ONLINE]
 
-⚡ **Discover the Insight**
+> SENTINEL STATUS:
 
-<br>
+████████████████████████████████ 100%
 
-### **The web has the information.**
+READY.
+```
 
-### **Sentinel finds the signal.**
+<br/>
 
-<br>
+### 🌐 EXPLORE   •   🕷️ EXTRACT   •   🧠 UNDERSTAND   •   ⚡ DISCOVER
 
-⭐ **Star the repository if you like the project!** ⭐
+<br/>
+
+[![Watch Demo](https://img.shields.io/badge/▶_WATCH_DEMO-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/U8OU9lL_Gjc)
+ 
+![Star](https://img.shields.io/badge/⭐_STAR_THE_REPOSITORY-yellow?style=for-the-badge)
+
+<br/><br/>
+
+## **THE WEB IS THE UNIVERSE.**
+
+## **SENTINEL IS YOUR GUIDE.**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 </div>
